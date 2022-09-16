@@ -1,5 +1,5 @@
 # random_dice
-Random dice generator game using Javascript
+Random dice generator game using Javascript created in conjuction with the Angela Yu "Complete 2022 Web Development" course on Udemy.
 
 To View:
 
